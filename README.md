@@ -18,6 +18,6 @@ g++ main.cpp -o medias
 ./medias
 ```
 
-Só um projetinho pra mim não ser reprovado pelo Debatin.
+Só um projetinho pro Debatin não mandar minha nota pro espaço.
 
 ---
