@@ -14,8 +14,8 @@ Programa simples que cadastra alunos, recebe 3 notas, calcula a média e diz se 
 ## ▶️ Como rodar
 
 ```bash
-g++ main.cpp -o medias
-./medias
+g++ medias.cpp -o medias.exe
+./medias.exe
 ```
 
 Só um projetinho pro Debatin não mandar minha nota pro espaço.
