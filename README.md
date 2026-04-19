@@ -4,7 +4,7 @@ Programa simples que cadastra alunos, recebe 3 notas, calcula a média e diz se 
 
 ## 💻 O que faz
 
-* Lê nome do aluno (inclusive nome composto)
+* Lê nome do aluno
 * Lê 3 notas com validação (0 a 10)
 * Calcula média
 * Mostra tudo em formato de tabela
